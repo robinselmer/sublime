@@ -9,6 +9,6 @@ This is a collection of Sublime Text Plugins and settings that I use on a daily 
 - Text Pastry – https://packagecontrol.io/packages/Text%20Pastry
 
 ## Settings
-_Preferences > Settings – User_
+**Install Path:** `%appdata%\Sublime Text 3\Packages\User`
 
-`%appdata%\Sublime Text 3\Packages\User`
+- Preferences > [Settings – User](https://github.com/robinselmer/sublime/blob/master/Preferences.sublime-settings)
