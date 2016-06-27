@@ -6,6 +6,7 @@ This is a collection of Sublime Text Plugins and settings that I use on a daily 
 - BracketHighlighter – https://packagecontrol.io/packages/BracketHighlighter
 - Emmet – https://packagecontrol.io/packages/Emmet
 - IndentX – https://packagecontrol.io/packages/IndentX
+- Text Pastry – https://packagecontrol.io/packages/Text%20Pastry
 
 ## Settings
 _Preferences > Settings – User_
