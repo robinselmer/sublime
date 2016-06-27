@@ -3,6 +3,7 @@ This is a collection of Sublime Text Plugins and settings that I use on a daily 
 
 ## Plugins
 - PackageControl – https://packagecontrol.io/
+- BracketHighlighter – https://packagecontrol.io/packages/BracketHighlighter
 - Emmet – https://packagecontrol.io/packages/Emmet
 - IndentX – https://packagecontrol.io/packages/IndentX
 
