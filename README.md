@@ -11,4 +11,4 @@ This is a collection of Sublime Text Plugins and settings that I use on a daily 
 ## Settings
 **Install Path:** `%appdata%\Sublime Text 3\Packages\User`
 
-- Preferences > [Settings – User](https://github.com/robinselmer/sublime/blob/master/Preferences.sublime-settings)
+- Preferences > [Settings – User](Preferences.sublime-settings)
