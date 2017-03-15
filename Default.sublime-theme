@@ -1,0 +1,41 @@
+[
+    {
+        "class": "sidebar_tree",
+        "row_padding": [8, 5],
+        "indent": 12,
+        "indent_offset": 12,
+        "indent_top_level": false,
+        "layer0.tint": [39, 40, 34],
+        "layer0.opacity": 1.0,
+        "dark_content": true
+    },
+    {
+        "class": "sidebar_heading",
+        "color": [207, 207, 194],
+        "font.bold": true,
+        "shadow_color": [29, 29, 22],
+        "shadow_offset": [0, 1]
+    },  
+    {
+        "class": "sidebar_label",
+        "color": [207, 207, 194],
+    },
+    {
+        "class": "sidebar_label",
+        "parents": [{"class": "tree_row", "attributes": ["selected"]}],
+        "color": [255, 255, 255]
+    },
+    {
+        "class": "icon_file_type",
+        "layer0.opacity": 1.0,
+        "content_margin": [0,0]
+    },
+    {
+        "class": "icon_folder",
+        "content_margin": [0,0],
+    },
+    {
+        "class": "icon_folder_loading",
+        "content_margin": [0,0]
+    }
+]
