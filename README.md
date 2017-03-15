@@ -1,8 +1,11 @@
 # My Sublime Text 3 Plugins, Settings, etc.
 This is a collection of Sublime Text Plugins and settings that I use on a daily basis.
 
+## Package Control
+Open the Sublime Text Console via `View > Show Console` and paste 
+the Python code found here: https://packagecontrol.io/installation
+
 ## Plugins
-- PackageControl – https://packagecontrol.io/
 - BracketHighlighter – https://packagecontrol.io/packages/BracketHighlighter
 - Emmet – https://packagecontrol.io/packages/Emmet
 - File Rename – https://packagecontrol.io/packages/File%20Rename
